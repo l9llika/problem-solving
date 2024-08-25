@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.main-bg {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+  width: 100%;
+  height: 100vh;
+}
+.main-image {
+  width: 474px;
+  height: 344px;
+}
